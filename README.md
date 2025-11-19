@@ -7,3 +7,7 @@ The main folder InTaSet.zip contains two subfolders: (1) dataset for system iden
 Within the InTaSet-ID sub-folder, four testbed configurations are provided. Each configuration uses different training and testing datasets.  
 
 Within the InTaSet-FD sub-folder, it contains 4-subsubfolders: (1) clean (closed-loop operating modes), (2) sensor-fault to Tank 1, (3) sensor-fault to Tank 3, and (4) sensor-fault to Tank 1 and 3.
+
+**Citation**
+If you use the above dataset for evaluating system identification and sensor-fault detection frameworks, please cite our EWRI conference article below:
+Putri, S. A., Daniela, V., Raza, N., Iwakin,  O., & Moazeni, F. (2025). InTaSet: A Benchmark Dataset for Data-Driven System Identification and Fault Detection in an Interconnected Water System [Data set]. World Environmental & Water Resources Congress 2026 (EWRI 2026), Mobile, Alabama. [DOI will be provided soon]
