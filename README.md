@@ -1,6 +1,6 @@
 **InTaSet** is a comprehensive benchmark dataset for nonlinear system identification and sensor-fault detection based on real-time measurements from a physical interconnected quadruple-tank testbed, operating in both open-loop and closed-loop configurations.
 
-<img width="3508" height="2480" alt="expsetup_QTS" src="https://github.com/user-attachments/assets/ced28c41-6568-4b64-9832-07cc4f3193f7" />
+<img width="2977" height="2530" alt="mainlayout" src="https://github.com/user-attachments/assets/c767b670-6737-4e9c-b758-8ede5ddd06e2" />
 
 The main folder InTaSet.zip contains two subfolders: (1) dataset for system identification (InTaSet-ID) and (2) dataset for sensor-fault detection (InTaSet-FD).
 
