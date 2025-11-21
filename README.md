@@ -13,4 +13,5 @@ Within the InTaSet-FD sub-folder, it contains 4-subsubfolders: (1) clean (closed
 **Citation**
 
 If you use the above dataset for evaluating system identification and sensor-fault detection frameworks, please cite our EWRI conference article below:
+
 Putri, S. A., Daniela, V., Raza, N., Iwakin,  O., & Moazeni, F. (2025). InTaSet: A Benchmark Dataset for Data-Driven System Identification and Fault Detection in an Interconnected Water System [Data set]. World Environmental & Water Resources Congress 2026 (EWRI 2026), Mobile, Alabama. [DOI will be provided soon]
